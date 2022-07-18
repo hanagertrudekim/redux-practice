@@ -13,16 +13,16 @@ const CounterWrapper = styled.div`
 const BtnWrapper = styled.div`
   background: rgba(255, 255, 255, 0.63);
   border-radius: 110px;
-  height: 121px;
-  width: 290px;
+  height: 100px;
+  width: 250px;
   display: flex;
   justify-content: space-around;
   align-items: center;
 `;
 
 const Count = styled.span`
-  height: 121px;
-  width: 121px;
+  height: 100px;
+  width: 105px;
   background-color: white;
   border-radius: 200px;
   display: flex;

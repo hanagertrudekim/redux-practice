@@ -30,8 +30,8 @@ const InputTodo = styled.input`
 `;
 
 const AddBtn = styled.button`
-  width: 59px;
-  height: 59px;
+  width: 50px;
+  height: 50px;
   background: #6ca3ea;
   border: 1px solid #ffffff;
   border-radius: 10px;
@@ -41,12 +41,12 @@ const AddBtn = styled.button`
 
 const ToDo = styled.li`
   margin-bottom: 18px;
-  height: 59px;
+  height: 50px;
   background: white;
   display: grid;
   justify-content: center;
   align-items: center;
-  padding: 11px;
+  padding: 7px;
   grid-template-columns: 1fr 59px 59px;
   gap: 5px;
   border-radius: 5px;

@@ -15,7 +15,7 @@ const GlobalStyle = createGlobalStyle`
   h2{
     font-weight: 400;
     color: white;
-    font-size: 64px;
+    font-size: 50px;
     letter-spacing: 0.1em;
   }
 `;
