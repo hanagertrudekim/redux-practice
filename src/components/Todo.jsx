@@ -20,6 +20,14 @@ const InputForm = styled.div`
 const InputTodo = styled.input`
   border: none;
   font-size: 24px;
+  @media (max-width: 524px) {
+    & {
+      width: 70%;
+      &::placeholder {
+        font-size: 17px;
+      }
+    }
+  }
   &:focus {
     outline: none;
   }
